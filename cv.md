@@ -9,3 +9,5 @@ I’m interested in Web Development because this occupation provides endless pos
 # Education
 + 2012 - Grodno State University Ya. Kupala, Grodno (Faculty of Economics and Management, Specialty Management)
 + 2021 - Academy of Public Administration under the President of the Republic of Belarus, Minsk (Faculty of Management, Specialty Management and Law)
+# SKILLS
+rsschool (in the process of studying)
