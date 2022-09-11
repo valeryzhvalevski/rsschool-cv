@@ -20,6 +20,7 @@ body {
 .nav {
   position: fixed;
   background-color: #222;
+  opacity: 0.8;
   top: 0;
   left: 0;
   right: 0;
@@ -115,3 +116,8 @@ body {
   line-height: 30px;
   letter-spacing: 1.2px;
 }
+
+h2 {
+  align-self: flex-end;
+}
+
