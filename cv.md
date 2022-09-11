@@ -1,3 +1,3 @@
 valery zhvalevski
 telegram @zhvalevski
-front
+front-end developer
