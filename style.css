@@ -73,6 +73,12 @@ a {
   font-weight: bold;
 }
 
+@media (max-width: 480px) {
+  nav {
+    display: none;
+  }
+}
+
 .hero {
   background-image: url('1.jpg');
   background-repeat: no-repeat;
