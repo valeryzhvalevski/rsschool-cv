@@ -37,10 +37,19 @@
       </ul>
 
       <h2 id="Code">Code</h2>
-      <pre class="pre"><code>function factorial(n) {<font></font>
-  if(n &lt; 0) return null;<font></font>
-  if (n &lt;= 1) return 1;<font></font>
-  return n * factorial(n-1);<font></font>
+      <pre class="pre"><code>
+      function pow(x, n) {
+      if (n >= 1 && n % 1 == 0) {
+      alert ( x ** n );
+      }
+      else {
+      alert (`${n} не подходит! n должно быть целым и больше 0!`);
+      } 
+      }
+
+      pow (+prompt (`напишите число (х)`, 5), +prompt (`напишите в какую степень возвести (n)`, 2));
+
+     
 }</code></pre>
 
       <h2 id="Courses">Courses</h2>
